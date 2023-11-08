@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi! My name is Slava Kapski. 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=25&pause=1000&color=F7BA0C&random=false&width=435&lines=I'm+Front-end+Developer)
 
-<!--
-**Kapskii/Kapskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### **My contacts** 
+**Phone📱:** +375336623846
 
-Here are some ideas to get you started:
+**Email 📧:** kapskij20@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me:
+My main goal is professional growth and development in the field of information technology. My strengths include hard work and perseverance in solving assigned tasks, the ability to get along with the team, as well as flexibility in various matters.
+
+## Skills 🛠 
+- JavaScrips 
+- HTML
+- CSS
+- React
+- TypeScript
+- Git
+- GitHub
+- Figma
+- Adobe Photoshop
+
+## Work Experience 🔗
+- [Landing Page](https://github.com/Kapskii/photo_website)
+- [Todolist](https://github.com/Kapskii/newTodolist)
+- [Social Network (in progress)](https://github.com/Kapskii/Social-network)
+
+## Education 📚
+- RS-School (Stage 1)
+- IT-INCUBATOR (pre-course)
+- Minsk State Automobile Mechanic College (Mechanical Technician)
+
+## Languages 
+- Russian 🇷🇺 (native)
+- English 🇬🇧 (A1 - in progress)
