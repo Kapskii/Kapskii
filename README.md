@@ -16,7 +16,7 @@
 My main goal is professional growth and development in the field of information technology. My strengths include hard work and perseverance in solving assigned tasks, the ability to get along with the team, as well as flexibility in various matters.
 
 ## Skills 🛠 
-- JavaScrips 
+- JavaScrips <img src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" height="30" width="90" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width: 100%;">
 - HTML
 - CSS
 - React
